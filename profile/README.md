@@ -2,13 +2,13 @@
 
 <div align="center">
 
-[VetTV Games Banner](../assets/vettv_games_banner.png)
+![VetTV Games Banner](../assets/vettv_games_banner.png)
 
 **Crafting nostalgic tycoon games & stream tools.**
 
-[[Veteran Owned](https://img.shields.io/badge/Veteran-Owned-%234B5320?style=for-the-badge)](https://github.com/VetTV-Studios)
-[[Python](https://img.shields.io/badge/Built%20With-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[[First Game](https://img.shields.io/badge/First%20Game-Lemonade%20Tycoon-F59E0B?style=for-the-badge)](#-lemonade-tycoon)
+[![Veteran Owned](https://img.shields.io/badge/Veteran-Owned-%234B5320?style=for-the-badge)](https://github.com/VetTV-Studios)
+[![Python](https://img.shields.io/badge/Built%20With-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![First Game](https://img.shields.io/badge/First%20Game-Lemonade%20Tycoon-F59E0B?style=for-the-badge)](#-lemonade-tycoon)
 
 90% wild game dev logs 🎬 • 10% pure nonsense 🎮 • 100% Service & Sacrifice 🇺🇸
 
