@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![VetTV Games Banner](../assets/vettv_games_banner.png)
+[VetTV Games Banner](../assets/vettv_games_banner.png)
 
 **Crafting nostalgic tycoon games & stream tools.**
 
